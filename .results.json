@@ -1,0 +1,46 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2023-12-26T19:09:44.400Z",
+    "end": "2023-12-26T19:09:45.347Z",
+    "duration": 947
+  },
+  "tests": [
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified function exists",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified index.js defines saturdayFun function declaration as specified function exists",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified function exists",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified index.js defines saturdayFun function declaration as specified function exists",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
